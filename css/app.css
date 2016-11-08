@@ -1,0 +1,50 @@
+body {
+    color: #2d3c49;
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+}
+
+a {
+    color: #2d3c49;
+}
+
+.header-title {
+    font-weight: 300;
+    font-size: 40px;
+}
+
+.header-line {
+    border: solid 1px #7d97ad
+}
+
+.header-logo {
+    margin: 10px 0;
+}
+
+.medium-title {
+    font-weight: 400;
+    font-size: 25px;
+    color: #7d97ad;
+}
+
+.image-section img {
+    cursor: pointer;
+}
+
+.image-title {
+    font-weight: 700;
+    font-size: 30px;
+    letter-spacing: 2px;
+}
+
+.image-description {
+    padding-top: 10px;
+}
+
+.footer-line {
+    margin-top: 30px;
+}
+
+footer {
+    font-weight: 100;
+}
